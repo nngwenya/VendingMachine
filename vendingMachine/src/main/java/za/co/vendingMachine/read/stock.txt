@@ -1,0 +1,6 @@
+lunchbar,11,5
+Coke,13,8
+Dreadfruits,16,4
+RedBull,20,6
+PopCorn,10,7
+KitKat,11,3
